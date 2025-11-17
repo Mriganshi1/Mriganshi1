@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mriganshi Sharma</h1>
-<h3 align="center">Product and Program Manager with 8+ years of experience leading cross-functional initiatives across supply chain, AI/ML, cloud systems, and enterprise applications. MBA from ISB with a B.Tech in Computer Science. Proven expertise in stakeholder engagement, end-to-end program delivery, and automation-driven product strategy. Adept at launching scalable tools and simplifying workflows for global teams.</h3>
+<h3 align="center">India based Product and Program Manager with 8+ years of experience leading cross-functional initiatives across supply chain, AI/ML, cloud systems, and enterprise applications. MBA from ISB with a B.Tech in Computer Science. Proven expertise in stakeholder engagement, end-to-end program delivery, and automation-driven product strategy. Adept at launching scalable tools and simplifying workflows for global teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mriganshi1&label=Profile%20views&color=0e75b6&style=flat" alt="mriganshi1" /> </p>
 
