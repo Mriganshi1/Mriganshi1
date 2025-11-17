@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mriganshi1" alt="mriganshi1" /></a> </p>
 
-- 🔭 I’m currently working on **building an e-comm website for a D2C brand**
+- 🔭 I’m currently working on **building a website for a D2C brand**
 
 - 👯 I recently built **an app to help track grocery inventory at home**
 
